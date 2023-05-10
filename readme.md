@@ -29,3 +29,8 @@ The server folder contains a node.js server using [express](https://expressjs.co
 The application should connect to the default server port (3042) automatically! 
 
 _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` to automatically restart the server on any changes.
+
+### Work
+[x] Using the repository [Ecdsa-node by Camillebzd](https://github.com/Camillebzd/ecdsa-node);
+[x] Update the lib "Ethereum Cryptography 1.2.0" to "Ethereum Cryptography 2.0.0";
+[x] Change some UX stuffs;
